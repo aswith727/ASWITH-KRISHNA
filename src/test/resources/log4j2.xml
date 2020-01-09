@@ -3,7 +3,7 @@
   <properties>
     <Property name="log-path">./log</Property>
 /bin/bash: $':\177\177\177\177\177\177\177\177': command not found
-  <Appenders>
+  supraja <Appenders>
     <Console name="console" target="SYSTEM_OUT">
       <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} - [%-5level] - %c{1} - %msg%n" />
     </Console>
