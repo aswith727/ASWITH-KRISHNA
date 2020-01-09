@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Configuration status="WARN">
-  <Properties>
+<configuration status="warn">
+  <properties>
     <Property name="log-path">./log</Property>
-    <Property name="org.jooq.Constants.level">WARNING</Property>
-  </Properties>
+/bin/bash: $':\177\177\177\177\177\177\177\177': command not found
   <Appenders>
     <Console name="console" target="SYSTEM_OUT">
       <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} - [%-5level] - %c{1} - %msg%n" />
